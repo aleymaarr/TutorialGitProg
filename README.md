@@ -4,7 +4,7 @@ Este repositorio contiene la solución de la prueba de validación de Alejandro 
 
 # Tematicas de los ejercicios 
 
-La tematica es asaber usar git con sus comandos correspondientes
+La tematica es saber como usar git con sus comandos correspondientes
 
 # Distribución de paquetes y clases ejecutables
 
